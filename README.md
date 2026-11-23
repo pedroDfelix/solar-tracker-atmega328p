@@ -6,7 +6,11 @@ Course project for Systems Laboratory (LABSI), BSc in Electrical and Computer En
 
 <img src="docs/prototype.jpg" width="48%"> <img src="docs/cad_model.jpg" width="40%">
 
-Demo video, with the panel following a phone torch: [docs/demo.mp4](docs/demo.mp4)
+Demo video, with the panel following a phone torch:
+
+
+https://github.com/user-attachments/assets/edf8b6e1-a64c-4ee0-b876-53fe52c1370e
+
 
 ## How it works
 
